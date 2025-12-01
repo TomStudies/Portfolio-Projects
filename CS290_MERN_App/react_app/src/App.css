@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  font-family:'Courier New', Courier, monospace;
+  background-color: #eb4b50;
+  color: lightgrey;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+tr th {
+  border: solid darkgrey;
+  color: turquoise;
+  padding: 1rem;
+  border-collapse: collapse;
+}
+
+tr td {
+  border: 1px dashed darkgrey;
+  border-collapse: collapse;
+  padding: 1rem;
+  color: #243a42;
+}
+
+input {
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+button {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
